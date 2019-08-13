@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["f3rp"],{f3rp:function(e,t,i){"use strict";i.r(t);var n=i("ZrdR"),r=Object(n.a)({},function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("keep-alive",{attrs:{include:"commit-record-list"}},[t("router-view")],1)],1)},[],!1,null,null,null);r.options.__file="index.vue";t.default=r.exports}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["lxQ8"],{lxQ8:function(e,t,n){"use strict";n.r(t);var i=n("ZrdR"),s=Object(i.a)({},function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("keep-alive",{attrs:{include:"admissionsTeam-structure"}},[t("router-view")],1)],1)},[],!1,null,null,null);s.options.__file="index.vue";t.default=s.exports}}]);
