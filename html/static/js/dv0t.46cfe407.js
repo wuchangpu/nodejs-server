@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["dv0t"],{dv0t:function(e,t,n){"use strict";n.r(t);var i=n("ZrdR"),r=Object(i.a)({},function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},[],!1,null,null,null);r.options.__file="index.vue";t.default=r.exports}}]);
